@@ -12,3 +12,8 @@ opened on 16 Jan again
 
 on the same time while people who were working on bug3 
 this file was edited in master branch
+
+opened on 16 Jan again
+
+This file was opened in branch bug 3
+
