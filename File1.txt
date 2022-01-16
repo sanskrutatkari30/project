@@ -7,3 +7,5 @@ hello new line added on 10 Jan
 opened on 16 Jan
 
 opened on 16 Jan again
+
+This file was opened in branch bug 3
