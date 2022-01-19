@@ -27,3 +27,6 @@ This change was made for stash in master branch
 This file was again edited on remote directory on github we.
 
 when local master was being edited this file was also edited.
+
+Again edited on local master
+
