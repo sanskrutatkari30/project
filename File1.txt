@@ -23,3 +23,5 @@ CR2 developers
 This file was edited in CR2
 
 This change was made for stash in master branch
+
+This file was again edited on remote directory on github we.
